@@ -110,7 +110,7 @@ export default function GitHub() {
         <Project>
           <Title>
             <AnchorLinks href="" target="_blank">Dynamic Resume</AnchorLinks>
-            <AnchorLinks href="https://projectresumex.netlify.app/" target="_blank"><SubHeading> Personal Project</SubHeading></AnchorLinks>
+            <AnchorLinks href="https://myresume-tusharsahni22.netlify.app/" target="_blank"><SubHeading> Personal Project</SubHeading></AnchorLinks>
           </Title>
           <Details>
             This idea originated when I wanted to create interesting resume for myself, where i could show my abilities more

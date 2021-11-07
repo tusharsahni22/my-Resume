@@ -71,7 +71,7 @@ export default function SimpleSlide() {
                         <b>Styled Components</b> <br/>
                         <br/>
                         <br/>
-                        <AnchorLinks href="https://github.com/usernameofaman/ResumeX">Checkout the Source code</AnchorLinks>
+                        <AnchorLinks href="https://github.com/tusharsahni22/my-Resume">Checkout the Source code</AnchorLinks>
 
                     </Paper>
                 </Slide>
